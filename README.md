@@ -71,8 +71,6 @@ Memories/
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, contact [abhayflame](https://github.com/abhayflame).
+For questions or feedback, contact [Abhay-Nair](https://github.com/Abhay-Nair).
